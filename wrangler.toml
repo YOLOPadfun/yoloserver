@@ -3,3 +3,6 @@ main = "src/index.js"
 type = "javascript"
 workers_dev = true
 compatibility_date = "2024-01-01"
+[vars]
+PINATA_JWT = ""
+GATEWAY_URL = ""
